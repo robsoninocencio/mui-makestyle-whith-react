@@ -1,3 +1,42 @@
+# Projeto -> React + Material UI - makeStyles
+
+Neste projeto veremos como trabalhar com style no Material UI usando makeStyles.
+
+Neste projeto, examinamos:
+- O que é JSS? Como usamos JSS com Material UI e React?
+- Como a IU do Material faz com que os estilos funcionem?
+- Como a IU do Material torna os estilos de usar o tema?
+- Como a IU do Material faz com que os estilos usam os adereços?
+- MUI makeStyles com temas e adereços
+- makeStyles vs withStyles 
+
+# Sites
+
+https://www.youtube.com/watch?v=k_AN49fA9g0&list=PLQg6GaokU5CwiVmsZ0d_9Zsg_DnIP_xwr&index=3
+https://material-ui.com/pt/
+https://material-ui.com/components/material-icons/
+
+# Comandos
+
+## Para criar o projeto:
+
+```
+npx create-react-app mui-makestyle-whith-react
+cd mui-makestyle-whith-react
+npm install @material-ui/core --save
+npm install @material-ui/styles --save
+npm start
+```
+
+## Para baixar o projeto:
+
+```
+git clone git@github.com:robsoninocencio/mui-makestyle-whith-react.git
+cd mui-makestyle-whith-react
+npm install
+npm audit fix
+npm start
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
