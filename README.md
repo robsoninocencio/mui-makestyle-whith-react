@@ -17,6 +17,9 @@ https://material-ui.com/pt/
 https://material-ui.com/components/material-icons/
 
 # Comandos
+```
+npm install classnames
+```
 
 ## Para criar o projeto:
 
