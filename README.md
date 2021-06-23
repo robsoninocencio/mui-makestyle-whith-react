@@ -15,6 +15,7 @@ Neste projeto, examinamos:
 https://www.youtube.com/watch?v=k_AN49fA9g0&list=PLQg6GaokU5CwiVmsZ0d_9Zsg_DnIP_xwr&index=3
 https://material-ui.com/pt/
 https://material-ui.com/components/material-icons/
+https://material-ui.com/styles/basics/
 
 # Comandos
 ```
